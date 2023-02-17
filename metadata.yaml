@@ -1,0 +1,33 @@
+_repo: Holly-The-Romance-of-a-Southern-Girl_69920
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Bayha, Edwin F.
+    gutenberg_agent_id: '55492'
+    url: http://www.gutenberg.org/2009/agents/55492
+creator:
+  author:
+    agent_name: Barbour, Ralph Henry
+    alias: Barbour, R. H. (Ralph Henry)
+    birthdate: 1870
+    deathdate: 1944
+    gutenberg_agent_id: '2067'
+    url: http://www.gutenberg.org/2009/agents/2067
+    wikipedia: https://en.wikipedia.org/wiki/Ralph_Henry_Barbour
+description: ''
+gutenberg_issued: '2023-01-31'
+identifiers:
+  gutenberg: '69920'
+language: en
+pgterms:marc905: 20170929124647barbour
+pgterms:marc906: '1907'
+pgterms:marc907: US
+production_note: Donald Cummings and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: 'United States: J. B. Lippincott Company,1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Holly: The Romance of a Southern Girl'
+url: http://www.gutenberg.org/ebooks/69920
